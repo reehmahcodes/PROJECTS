@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#main {
+    background: url(pinterest4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30rem;
+}
+
+ul {
+    display: flex;
+    gap: 2rem;
+    font-size: 12px;
+}
+
+ul li {
+    list-style: none;
+}
+
+.body1 {
+    display: flex;
+    height: 93vh;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+p {
+    padding-bottom:8px;
+}
+
+.A {
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.B {
+    font-size: 21px;
+    padding-left: 10px;
+}
+
+.C {
+    font-size: 13px;
+    padding-left: 10px; 
+}
+
+button {
+    padding: 10px;
+    padding-left: 10px;
+    margin-left: 8px;
+    width:max-content;
+    font-size: 10px;
+
+}
+
+.btn1 {
+    background-color: black;
+    color: white;
+    width: 40%;
+}
+
+.btn2 {
+    background-color: white;
+    width: 40%;
+}
+
