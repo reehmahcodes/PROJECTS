@@ -1,0 +1,162 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 15px 100px;
+    display: flex;
+    gap: 20rem;
+}
+.head {
+    font-size: 20px;
+}
+
+.head1 {
+    font-size: 13px;
+}
+
+.day {
+    font-size: 20px;
+}
+
+.call {
+    font-size: 20px;
+}
+
+nav {
+    padding: 20px 100px;
+    display: flex;
+    align-items: center;
+    gap: 7rem;
+    background-color:gainsboro;
+} 
+
+ul {
+    display: flex;
+    gap: 7rem;
+    font-size: 20px;
+    color:#13b2a5;
+}
+
+ul li {
+    list-style: none;
+}
+
+.bodycontent {
+    padding: 0px 80px;
+    display: flex;
+    gap: 10rem;
+    align-items: center;
+    background: url(images/istockphoto-5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* opacity: 2.5; */
+}
+
+.page {
+    font-size: 12px;
+}
+
+.Edu {
+    font-size: 40px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.btn1 {
+    padding: 10px 20px;
+    background-color: #13b2a5;
+    border: none;
+    color: white;
+    font-size: 12px;
+}
+
+.btn2 {
+    padding: 10px 15px;
+    background-color: white;
+    border: none;
+    color: #13b2a5;
+    font-size: 12px;
+}
+
+.image {
+    height: 500px;
+    
+}
+
+section {
+    background-color:#a1c8cf;
+    color:white;
+}
+
+.main1 {
+    padding: 70px;
+}
+
+.get {
+    background-color: #13b2a5;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    gap: 10rem;
+    align-items: center;
+    padding: 0px 300px;
+}
+
+.image1{
+    height: 300px;
+}
+
+.content1 {
+    font-size: 15px;
+    padding-top: 50px;
+}
+
+.get1 {
+    font-size: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #13b2a5;
+    border: none;
+    color: white;
+}
+
+.downcontent {
+    align-items: center;
+    display:flex;
+    background-color: aquamarine;
+}
+
+.par {
+    padding-top: 5%;
+    color: black;
+}
+
+.downcontent1 {
+    align-items: center;
+    display:flex;
+    background-color: aquamarine;
+}
+
+.part {
+    padding-top: 5%;
+    padding-left: 50px;
+}
+
+.hyj.btn-success {
+    color: #000;
+}
+
+.content {
+    padding-top: 70px;
+    font-size: 25px;
+}

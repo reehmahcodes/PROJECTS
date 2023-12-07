@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    text-align: center;
+    gap: 50rem;
+    padding: 20px;
+    background-color:palevioletred;
+}
+
+ul {
+    display: flex;
+    gap: 3rem;
+    color: blueviolet;
+    font-weight: bold;
+}
+
+ul li {
+    list-style: none;
+}
+
+.date {
+    padding-top: 15px;
+    font-size: 20px;
+}
+.Cat {
+    width: 620px;
+    height: 400px;
+    padding-bottom: 15px;
+}
+
+p {
+    padding-bottom: 15px;
+}
+
+.article {
+    font-size: 30px;
+}
+
+.content {
+    padding-left: 40rem;
+}
+
+.bodycontent {
+    font-size: 20px;
+}
